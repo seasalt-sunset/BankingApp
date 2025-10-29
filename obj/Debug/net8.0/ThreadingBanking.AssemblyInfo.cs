@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThreadingBanking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e58c2009d319e9a5ff4391cf76d12473df49cf9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f791d5bef8e3444c425cb589087b779b852a7cb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThreadingBanking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThreadingBanking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

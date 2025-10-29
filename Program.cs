@@ -1,10 +1,21 @@
-﻿namespace ThreadingBanking
+﻿using ThreadingBanking.Entities;
+using ThreadingBanking.UI;
+
+namespace ThreadingBanking
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            try
+            {
+                UserInterface ui = new UserInterface();
+                ui.start();
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine($"Error!!!!!....????!?!!?!! {e.Message}");
+            }
         }
     }
 }

@@ -72,7 +72,7 @@ namespace ThreadingBanking.Entities
 
         public double GetAccountBalance(int accountNumber)
         {
-            BankAccount account = FindAccount(accountNumber);
+            BankAccount? account = FindAccount(accountNumber);
             if (account == null) throw new NullAccountException();
 
             return account.Balance;
