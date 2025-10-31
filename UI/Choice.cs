@@ -12,6 +12,7 @@ namespace ThreadingBanking.UI
         Deposit,
         Withdraw,
         Transfer,
+        Open,
         HELL
     }
 }
