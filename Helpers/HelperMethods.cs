@@ -28,7 +28,7 @@ namespace ThreadingBanking.Helpers
                     Console.WriteLine("This option is not available. Retry.");
                     continue;
                 }
-
+                break;
             }
 
             return number;

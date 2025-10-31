@@ -29,9 +29,9 @@ namespace ThreadingBanking.Helpers
             return () => { Operations.Actions.Open(bank, lockObject); };
         }
 
-        public static ThreadStart HELLThreadStart(Bank bank, object lockObject)
+        public static ThreadStart HELLThreadStart(Bank bank)
         {
-            return () => { Operations.Actions.HELL(bank, lockObject); };
+            return () => { Operations.Actions.ActivateHELL(bank); };
         }
     }
 }

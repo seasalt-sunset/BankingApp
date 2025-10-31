@@ -29,14 +29,14 @@ namespace ThreadingBanking.Helpers
             return new Thread(ThreadStartManager.OpenThreadStart(bank, lockObject));
         }
 
-        public static Thread HELLThread(Bank bank, object lockObject)
+        public static Thread HELLThread(Bank bank)
         {
-            return new Thread(ThreadStartManager.HELLThreadStart(bank, lockObject));
+            return new Thread(ThreadStartManager.HELLThreadStart(bank));
         }
 
         public static bool IsNotNullAndAlive(Thread thread)
         {
-            if (thread != null && thread.IsAlive) return true;
+            if (thread != null && !thread.IsAlive) return true;
             
             return false;
         }

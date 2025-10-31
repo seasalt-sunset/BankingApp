@@ -20,7 +20,7 @@ namespace ThreadingBanking.Entities
 
         public void Deposit(double amount)
         {
-            if (amount <= 0) throw new EmptyOrNegativeAmountException();
+            if (amount < 0) throw new EmptyOrNegativeAmountException();
             this.Balance += amount;
         }
 
@@ -35,8 +35,8 @@ namespace ThreadingBanking.Entities
 
         public void TransferTo(BankAccount destination, double amount)
         {
-            if (amount <= 0) throw new EmptyOrNegativeAmountException();
-            if (this.Balance - amount <= 0) throw new EmptyOrNegativeAmountException();
+            if (amount < 0) throw new EmptyOrNegativeAmountException();
+            if (this.Balance - amount < 0) throw new EmptyOrNegativeAmountException();
 
             this.Balance -= amount;
             destination.Balance += amount;

@@ -1,0 +1,15 @@
+C:\Users\federico.sbressa\source\repos\ThreadingBanking\ThreadingBanking\obj\Debug\net8.0\ThreadingBanking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.sbressa\source\repos\ThreadingBanking\ThreadingBanking\obj\Debug\net8.0\ThreadingBanking.AssemblyInfoInputs.cache
+C:\Users\federico.sbressa\source\repos\ThreadingBanking\ThreadingBanking\obj\Debug\net8.0\ThreadingBanking.AssemblyInfo.cs
+C:\Users\federico.sbressa\source\repos\ThreadingBanking\ThreadingBanking\obj\Debug\net8.0\ThreadingBanking.csproj.CoreCompileInputs.cache
+C:\Users\federico.sbressa\source\repos\ThreadingBanking\ThreadingBanking\obj\Debug\net8.0\ThreadingBanking.sourcelink.json
+C:\Users\federico.sbressa\source\repos\ThreadingBanking\ThreadingBanking\bin\Debug\net8.0\ThreadingBanking.exe
+C:\Users\federico.sbressa\source\repos\ThreadingBanking\ThreadingBanking\bin\Debug\net8.0\ThreadingBanking.deps.json
+C:\Users\federico.sbressa\source\repos\ThreadingBanking\ThreadingBanking\bin\Debug\net8.0\ThreadingBanking.runtimeconfig.json
+C:\Users\federico.sbressa\source\repos\ThreadingBanking\ThreadingBanking\bin\Debug\net8.0\ThreadingBanking.dll
+C:\Users\federico.sbressa\source\repos\ThreadingBanking\ThreadingBanking\bin\Debug\net8.0\ThreadingBanking.pdb
+C:\Users\federico.sbressa\source\repos\ThreadingBanking\ThreadingBanking\obj\Debug\net8.0\ThreadingBanking.dll
+C:\Users\federico.sbressa\source\repos\ThreadingBanking\ThreadingBanking\obj\Debug\net8.0\refint\ThreadingBanking.dll
+C:\Users\federico.sbressa\source\repos\ThreadingBanking\ThreadingBanking\obj\Debug\net8.0\ThreadingBanking.pdb
+C:\Users\federico.sbressa\source\repos\ThreadingBanking\ThreadingBanking\obj\Debug\net8.0\ThreadingBanking.genruntimeconfig.cache
+C:\Users\federico.sbressa\source\repos\ThreadingBanking\ThreadingBanking\obj\Debug\net8.0\ref\ThreadingBanking.dll
